@@ -10,6 +10,20 @@ Most of the code belongs to **[Piotr Zioło](https://github.com/PiotrZiolo)**, w
 
 :heavy_check_mark: **Cases of data pre-processing that can be found in real business projects**
 
+:heavy_check_mark: **Neural network recommender class written in a way that allows you to easily extend it with different models and optimizers**
+
+:heavy_check_mark: **Configurable properties of recommender class like embedding dimension, hidden dimension, batch_size and more which make it easy to play with these parameters and compare results**
+
+:heavy_check_mark: **Implementation of most popular neural network models: MLP, GMF, NeuMF**
+
+:heavy_check_mark: **Usage of different optimizers: Adam, SGD, ASGD**
+
+:heavy_check_mark: **Tunning recommenders with different optimizers in order to check how usage of different models affect parameters of the same optimizer**
+
+:heavy_check_mark: **Comparison of all nine recommenders with Amazon and Netflix recommenders**
+
+:heavy_check_mark: **Beating Amazon and Netflix recommenders in results after evaluating models with train test split implicit** :bangbang:
+
 ---
 
 ### Requirements:
