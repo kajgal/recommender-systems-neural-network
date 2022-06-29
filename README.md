@@ -85,7 +85,7 @@ Main content is in project_1_data_preparation.ipynb and project_2_recommender_an
 
 ### Results
 
-![Results](./img/performance.png)
+![Results](./results.png)
 
 ---
 
