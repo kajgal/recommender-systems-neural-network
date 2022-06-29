@@ -54,6 +54,7 @@ project_1_data_preparation.ipynb
 project_2_recommender_and_evaluation.html
 project_2_recommender_and_evaluation.ipynb
 results.png
+env.yaml
 |   
 +---data
 |   \---hotel_data
