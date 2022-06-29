@@ -53,6 +53,7 @@ project_1_data_preparation.html
 project_1_data_preparation.ipynb
 project_2_recommender_and_evaluation.html
 project_2_recommender_and_evaluation.ipynb
+results.png
 |   
 +---data
 |   \---hotel_data
